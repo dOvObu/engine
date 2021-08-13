@@ -1,0 +1,6 @@
+{
+	test: "Hello serialized settings"
+
+	position:
+		[2]	f50.0	f50.0
+}
